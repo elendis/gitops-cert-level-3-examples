@@ -11,7 +11,7 @@ spec:
       github:
         owner: elendis
         repo: gitops-cert-level-3-examples
-      labels:
+        labels:
         - preview-ready
       requeueAfterSeconds: 180
   template:
